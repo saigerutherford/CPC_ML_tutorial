@@ -1,0 +1,2 @@
+Instructions.i.   Start and get familiar google COLAB and link it to your google account/drive. 
+	https://colab.research.google.com/notebooks/intro.ipynb ii.  Save the instruction's notebook as well as the data in your google drive. iii. Open the instruction's notebook in COLAB and follow it.iv.  Have fun :o)
