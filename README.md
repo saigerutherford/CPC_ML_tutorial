@@ -15,7 +15,7 @@ Other helpful pandas links:
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
 
-The template notebook we will be filling out during this practical can be launched here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/saigerutherford/CPC_2020/blob/master/tasks/instructions_cpc_machinelearning.ipynb)
+The template notebook we will be filling out during this practical can be launched here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/instructions_cpc_machinelearning.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
+If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
 
