@@ -15,6 +15,8 @@ Other helpful pandas links:
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
 
+Click on this link for [Google Doc](https://docs.google.com/document/d/1cvECP1ZeZmTCS4uBCEESBcCcoLA5MtgidJQ9F01H390/edit?usp=sharing) setup instructions for those who are new to using Google Colab.
+
 The template notebook we will be filling out during this practical can be launched here (you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/instructions_cpc_machinelearning.ipynb)
 
 If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
