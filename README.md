@@ -5,11 +5,11 @@ We will be running all of our code in Google Colab python notebooks. These are e
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there are only 2 instructors and lots of students)! 
 
-If you have never used Google Colab before, you can check out an into notebook with lots of helpful links here :arrow_right: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
+If you have never used Google Colab before, you can check out an into notebook with lots of helpful links here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
-We will also be using the Pandas library for a lot of our code. There is a great intro to Pandas Colab notebook here :arrow_right: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
+We will also be using the Pandas library for a lot of our code. There is a great intro to Pandas Colab notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
 
-Other helpful pandas/plotting :panda_face: :bar_chart:links (not required to do during the practial, just added for those who might need extra python help) :arrow_right:
+Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do during the practial, just added for those who might need extra python help):
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
 3. [Short (software carpentry) pandas tutorial 1](https://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular/index.html)
@@ -25,7 +25,7 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 
 ![](presentation/Runtime1.png)
 
-:arrow_right: If you are using the Google cloud hosted option :arrow_right: in the upper left corner, you will see a button called `Runtime`. Click on `Runtime`, and another dropdown panel will appear (as shown below). Click on `Change runtime type`.
+:arrow_right: If you are using the Google cloud hosted option: in the upper left corner, you will see a button called `Runtime`. Click on `Runtime`, and another dropdown panel will appear (as shown below). Click on `Change runtime type`.
 
 ![](presentation/Runtime2.png)
 
