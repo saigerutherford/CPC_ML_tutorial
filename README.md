@@ -35,7 +35,7 @@ This box will open, and you can select the ‘GPU’ option, then click save.
 
 In the same menu you used to change the runtime, there are several other optional things you can explore that may make your interacting with the notebook easier. Under ‘Tools’ there is a ‘Settings’ tab, which you can use to change the theme to light or dark mode using the ‘Site’ sub-tab. Then under the ‘Miscellaneous’ sub-tab, you can select Corgi or Kitty mode, and this will make cute animals walk across the top of your screen. There is no practical utility to this whatsoever, and it is for the sole purpose that cute animals spark joy. 
 
-![](presentation/settings1.png){:height="50%" width="50%"}
+![](presentation/settings1.png =300x300)
 
 ![](presentation/settings2.png){:height="50%" width="50%"}
 
@@ -49,5 +49,5 @@ Now you are ready to begin coding! Good luck!
 
 The template notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/instructions_cpc_machinelearning.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/cpc_normative_modeling_key.ipynb)
+If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
 
