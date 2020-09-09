@@ -35,9 +35,9 @@ This box will open, and you can select the ‘GPU’ option, then click save.
 
 In the same menu you used to change the runtime, there are several other optional things you can explore that may make your interacting with the notebook easier. Under ‘Tools’ there is a ‘Settings’ tab, which you can use to change the theme to light or dark mode using the ‘Site’ sub-tab. Then under the ‘Miscellaneous’ sub-tab, you can select Corgi or Kitty mode, and this will make cute animals walk across the top of your screen. There is no practical utility to this whatsoever, and it is for the sole purpose that cute animals spark joy. 
 
-![](presentation/settings1.png)
+![](presentation/Settings1.png)
 
-![](presentation/settings2.png)
+![](presentation/Settings2.png)
 
 Also under the ‘Tools’ tab, there is an option to look at Keyboard shortcuts. You don’t need to change any of these, but you can review some of them if you want to learn about speeding up your coding practice. 
 
