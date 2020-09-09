@@ -49,5 +49,5 @@ Now you are ready to begin coding! Good luck!
 
 The template notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/instructions_cpc_machinelearning.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/cpc_normative_modeling_key.ipynb)
+If you get stuck and need guidance, there is a filled out answer key notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
 
