@@ -1,5 +1,5 @@
-# Normative Modeling Practical CPC 2020
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 12th, 2020.
+# Machine Learning with Normative Modeling Tutorial CPC 2021
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 18th, 2021.
 
 This repository is a group effort by [Thomas Wolfers](https://twitter.com/ThomasWolfers), [Saige Rutherford](https://twitter.com/being_saige), and [Mariam Zabihi](https://twitter.com/m_zabihi).
 
@@ -7,7 +7,7 @@ We will be running all of our code in Google Colab python notebooks. These are e
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
 It also ensures that we are all working on the same operating system which makes troubleshooting much easier (since there are only 2 instructors and lots of students)! 
 
-If you have never used Google Colab before, you can check out an into notebook with lots of helpful links here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
+If you have never used Google Colab before, you can check out an introduction notebook with lots of helpful links here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
 We will also be using the Pandas library for a lot of our code. There is a great intro to Pandas Colab notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb)
 
@@ -46,7 +46,7 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 ### Now you are ready to begin coding :brain:	:computer:! 
 ### Good luck :four_leaf_clover: and remember to have fun :smiley:! 
 
-The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks/cpc_normative_modeling_instructions.ipynb)
+The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/cpc_normative_modeling_instructions.ipynb)
 
-If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_2020/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
+If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
 
