@@ -1,7 +1,8 @@
-# Machine Learning with Normative Modeling Tutorial CPC 2021
+# Machine Learning with Normative Modeling Tutorial 
+# Computational Psychiatry Course 2021
 This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 18th, 2021.
 
-This repository is a group effort by [Thomas Wolfers](https://twitter.com/ThomasWolfers), [Saige Rutherford](https://twitter.com/being_saige), and [Mariam Zabihi](https://twitter.com/m_zabihi).
+This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers), and [Mariam Zabihi](https://twitter.com/m_zabihi).
 
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
@@ -14,9 +15,6 @@ We will also be using the Pandas library for a lot of our code. There is a great
 Other helpful pandas:panda_face:/plotting:bar_chart: links (not required to do during the practial, just added for those who might need extra python help):
 1. [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 2. [Pandas Selecting/Indexing API](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
-3. [Short (software carpentry) pandas tutorial 1](https://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular/index.html)
-4. [Short (software carpentry) pandas tutorial 2](https://swcarpentry.github.io/python-novice-gapminder/08-data-frames/index.html)
-5. [Short (software carpentry) plotting tutorial](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/index.html)
 
 ### :warning: Setup instructions for Google Colab :warning:
 You can open the python notebook that we will use in this practical directly from this Github account (the links to the notebook are at the bottom of this Read Me file). Before you open the notebook, make sure you are logged into a Google account. All of the code has been tested using Google Chrome web browser. When you are ready to begin, you will click on the **template** Google Colab button below. This will launch a new browser tab with the Google Colab notebook. 
