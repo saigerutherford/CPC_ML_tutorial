@@ -46,7 +46,13 @@ Once you are in the Colab notebook tab, in the top right corner you will see a `
 ### Now you are ready to begin coding :brain:	:computer:! 
 ### Good luck :four_leaf_clover: and remember to have fun :smiley:! 
 
-The **template** notebook we will be filling out during this practical can be launched here (remember, you need to be signed in to a Google account in your internet browser, for best results, use Chrome): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/cpc_normative_modeling_instructions.ipynb)
+Before clicking on the colab button below, make sure you are logged into a google account and using Chrome or Firefox internet browser (hopefully a current version)
 
-If you get stuck and need guidance, there is a filled out answer key :key: notebook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks_key/key_cpc_machinelearning.ipynb)
+**Task 1: Fitting normative models from scratch** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/1_fit_normative_models.ipynb)
+
+**Task 2: Applying pre-trained normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/2_apple_normative_models.ipynb)
+
+**Task 3: Interpreting and visualizing the outputs of normative models** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/3_Visualizations.ipynb)
+
+**Task 4: Using the outputs (Z-scores) as features in predictive model** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saigerutherford/CPC_ML_tutorial/blob/master/tasks/4_post_hoc_analysis.ipynb)
 
