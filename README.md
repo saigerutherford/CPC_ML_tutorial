@@ -1,8 +1,8 @@
 # Machine Learning with Normative Modeling Tutorial 
-# Computational Psychiatry Course 2021
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 18th, 2021.
+# Computational Psychiatry Course 2022
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/) on September 17th, 2022.
 
-This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige), [Thomas Wolfers](https://twitter.com/ThomasWolfers), and [Mariam Zabihi](https://twitter.com/m_zabihi).
+This repository is a group effort by [Saige Rutherford](https://twitter.com/being_saige) and [Thomas Wolfers](https://twitter.com/ThomasWolfers).
 
 We will be running all of our code in Google Colab python notebooks. These are essentially Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. 
